@@ -1,4 +1,6 @@
 Pages
 ---
 
-A test repo to work out how Github Pages work.
+A test repo for GitHub pages.
+
+It has a [custom domain](https://pages.pop.ski) and a submodule.
