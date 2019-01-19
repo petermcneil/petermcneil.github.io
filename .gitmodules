@@ -1,0 +1,3 @@
+[submodule "popski"]
+	path = popski
+	url = git@github.com:petermcneil/popski.git
